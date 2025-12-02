@@ -1,0 +1,54 @@
+# =========================================
+#   GITIGNORE PROFISSIONAL - ZOMBIERUNNER
+# =========================================
+
+# ------ Python cache ------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ------ Virtual environments ------
+.venv/
+env/
+venv/
+ENV/
+
+# ------ Build & Distribution (PyInstaller) ------
+build/
+dist/
+*.spec
+
+# ------ Logs ------
+*.log
+
+# ------ Editor / IDE configs ------
+.vscode/
+.idea/
+
+# ------ Sistema Operacional ------
+.DS_Store
+Thumbs.db
+
+# ------ Arquivos temporários ------
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# ------ Arquivos gerados no web-build (pygbag) ------
+web/
+build/
+wasm/
+*.wasm
+*.js
+
+# ------ Assets temporários ------
+*.xcf
+*.psd
+
+# ------ Python cache extra ------
+*.egg-info/
+*.egg
+*.manifest
+*.pickle
