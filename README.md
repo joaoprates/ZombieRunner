@@ -81,9 +81,7 @@ muda música
 
 Isto dá uma cara de jogo completo, não só uma demo.
 
-🟧 9. Chefão (Boss)
 
-Esse é o mais avançado, mas se você fizer, é nota máxima absoluta.
 ## Controles
 
 | Ação | Tecla |
