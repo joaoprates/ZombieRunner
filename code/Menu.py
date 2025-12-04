@@ -43,6 +43,7 @@ class Menu:
             "SETAS - mover",
             "SPACE - atirar",
             "ESC - sair",
+            "P para Pausar",
             "",
             "Pressione ENTER para iniciar",
         ]
