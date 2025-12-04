@@ -21,8 +21,69 @@ O objetivo é sobreviver o máximo possível enquanto elimina inimigos, desvia d
 O jogo foi criado **do zero**, seguindo boas práticas de modularização, uso de assets externos, efeitos sonoros, animações e interface inicial.
 
 ---
+## Melhorias
+
+(in progress)
 
 
+🟩 3. Tela de pause (fácil e muito útil)
+
+Tecla P:
+
+pausa o jogo
+
+mostra “Jogo Pausado”
+
+reativa com P novamente
+
+🟦 4. Sistema de partículas (sangue ao acertar o zumbi)
+
+É opcional e deixa o jogo muito mais bonito.
+
+Exemplo:
+Quando o zumbi leva tiro, aparece um spray vermelho.
+
+🟦 5. Animação do personagem (2 ou 3 frames)
+
+Mesmo sendo só 2 frames (andando), fica muito mais profissional.
+
+Eu posso gerar os sprites animados se quiser.
+
+🟦 6. Animação dos zumbis (andar / bater)
+
+Melhora muito o visual e a nota.
+
+🟪 7. Power-ups simples
+
+Exemplos:
+
+Tiro triplo
+
+Tiro rápido
+
+Vida extra
+
+Escudo
+
+Cada um deles aumenta sua nota porque mostra lógica adicional.
+
+🟥 8. Sistema de níveis (Level 1, Level 2…)
+
+Cada nível:
+
+aumenta quantidade de zumbis
+
+muda velocidade
+
+muda fundo
+
+muda música
+
+Isto dá uma cara de jogo completo, não só uma demo.
+
+🟧 9. Chefão (Boss)
+
+Esse é o mais avançado, mas se você fizer, é nota máxima absoluta.
 ## Controles
 
 | Ação | Tecla |

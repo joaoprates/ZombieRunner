@@ -24,6 +24,8 @@ GRAY = (100, 100, 100)
 STATE_MENU = "menu"
 STATE_PLAYING = "playing"
 STATE_GAME_OVER = "game_over"
+STATE_GAME_WIN = "game_win"
+STATE_PAUSED = "paused"
 
 # Caminhos de assets
 ASSET_DIR = "asset"
@@ -33,6 +35,7 @@ ZOMBIE_IMG = f"{ASSET_DIR}/zombie.png"
 BULLET_IMG = f"{ASSET_DIR}/bullet.png"
 BACKGROUND_IMG = f"{ASSET_DIR}/game_background.png"
 MENU_BACKGROUND_IMG = f"{ASSET_DIR}/menu_background.png"
+HEART_IMG = f"{ASSET_DIR}/heart.png"
 
 FONT_FILE = f"{ASSET_DIR}/ZOMBIE.ttf"
 SHOOT_SOUND_FILE = f"{ASSET_DIR}/shoot.wav"

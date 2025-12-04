@@ -3,8 +3,9 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$/../ZombieRunner">
       <excludeFolder url="file://$MODULE_DIR$/../ZombieRunner/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/../ZombieRunner/.venv1" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.14 (PythonProject)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.12 (ZombieRunner)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
