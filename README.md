@@ -38,7 +38,7 @@ reativa com P novamente
 
 🟦 4. Sistema de partículas (sangue ao acertar o zumbi)
 
-É opcional e deixa o jogo muito mais bonito.
+É opcional e deixará o jogo muito mais bonito.
 
 Exemplo:
 Quando o zumbi leva tiro, aparece um spray vermelho.
@@ -47,11 +47,10 @@ Quando o zumbi leva tiro, aparece um spray vermelho.
 
 Mesmo sendo só 2 frames (andando), fica muito mais profissional.
 
-Eu posso gerar os sprites animados se quiser.
 
 🟦 6. Animação dos zumbis (andar / bater)
 
-Melhora muito o visual e a nota.
+Melhorará muito o visual e a nota.
 
 🟪 7. Power-ups simples
 
@@ -65,7 +64,6 @@ Vida extra
 
 Escudo
 
-Cada um deles aumenta sua nota porque mostra lógica adicional.
 
 🟥 8. Sistema de níveis (Level 1, Level 2…)
 
@@ -78,8 +76,6 @@ muda velocidade
 muda fundo
 
 muda música
-
-Isto dá uma cara de jogo completo, não só uma demo.
 
 
 ## Controles
